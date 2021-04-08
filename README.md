@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yuki070/yuki070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hey! 
+
+I'm Jianqiang Liang. I am a front-end developer.
+
+### 📫 How to reach me
+
+- Email: [jianqiang070@foxmail.com](mailto:jianqiang070@foxmail.com)
